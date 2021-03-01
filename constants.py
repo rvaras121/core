@@ -1,2 +1,3 @@
+YAHOO_DATE_FMT: str = '%B %d, %Y'
 
-YAHOO_DATE_FMT = '%B %d, %Y'
+OPTIONS_NOTIONAL: int = 100
