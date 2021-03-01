@@ -1,2 +1,2 @@
 
-START_DATE: str = '2000-01-01'
+YAHOO_DATE_FMT = '%B %d, %Y'
